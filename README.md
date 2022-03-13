@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Basic programming in the CS50 program
 - 💞️ I’m looking to collaborate wite some ideas
-- 📫 How to reach me wallace.budia@outlook.com
+- 📫 How to reach me wallace.budia@outlook.com https://github.com/WallaceBudia
 
 <!---
 WallaceBudia/WallaceBudia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
